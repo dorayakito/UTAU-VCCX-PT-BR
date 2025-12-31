@@ -34,6 +34,8 @@
 
 O sistema foi projetado para capturar a riqueza fonética do português brasileiro, incluindo **vogais nasais**, **ditongos**, **africadas** e **encontros consonantais** de forma natural e expressiva. No futuro, o sistema será expandido para suportar diferentes variantes do português, como **Português Europeu** (Portugal), **Português Angolano**, **Galego**, entre outros.
 
+[Veja aqui os prós](https://github.com/dorayakito/UTAU-VCCX-PT-BR/blob/main/PROS.md) e [veja aqui os contras](https://github.com/dorayakito/UTAU-VCCX-PT-BR/blob/main/CONS.md) do VCCX antes de continuar.
+
 ### O VCCX PT-BR Phonemizer
 
 O **VCCX Portuguese BR Phonemizer** é um phnoemizer/plugin **fonético (e também g2p)** para OpenUtau que permite a síntese de voz usando voicebanks gravadas no formato VCCX. Também possui uma versão **G2P (Grapheme-to-Phoneme)** para conversão automática de texto. Este phonemizer oferece:
