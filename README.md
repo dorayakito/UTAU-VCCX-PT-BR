@@ -1,4 +1,4 @@
-# Documentação Completa - VCCX Português BR
+# Documentação Completa - VCCX PT-BR
 
 **Versão:** 1.0  
 **Autor:** Dorayakito  
@@ -36,7 +36,7 @@ O sistema foi projetado para capturar a riqueza fonética do português brasilei
 
 ### O VCCX PT-BR Phonemizer
 
-O **VCCX Portuguese BR Phonemizer** é um plugin **fonético** para OpenUtau que permite a síntese de voz usando voicebanks gravadas no formato VCCX. Também possui uma versão **G2P (Grapheme-to-Phoneme)** para conversão automática de texto. Este phonemizer oferece:
+O **VCCX Portuguese BR Phonemizer** é um phnoemizer/plugin **fonético (e também g2p)** para OpenUtau que permite a síntese de voz usando voicebanks gravadas no formato VCCX. Também possui uma versão **G2P (Grapheme-to-Phoneme)** para conversão automática de texto. Este phonemizer oferece:
 
 - ✅ **Transições naturais** entre vogais e consoantes
 - ✅ **Suporte completo** para ditongos, nasalização e encontros consonantais
